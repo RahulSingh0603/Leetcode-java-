@@ -14,6 +14,7 @@ solve every day one leetcode problem
 | [0066-plus-one](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0162-find-peak-element/) | Medium |
@@ -111,6 +112,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0029-divide-two-integers/) | Medium |
+| [0078-subsets](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0191-number-of-1-bits/) | Easy |
@@ -219,4 +221,8 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0292-nim-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1025-divisor-game/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
