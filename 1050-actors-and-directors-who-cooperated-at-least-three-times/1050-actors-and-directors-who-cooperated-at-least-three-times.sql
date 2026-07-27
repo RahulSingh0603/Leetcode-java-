@@ -2,4 +2,4 @@
 select actor_id,director_id 
 from ActorDirector
 Group By actor_id , Director_id
-Having  count(1)>=3;
+Having  count(*)>=3;
