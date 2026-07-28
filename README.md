@@ -72,6 +72,7 @@ solve every day one leetcode problem
 | [0075-sort-colors](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -200,6 +202,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0013-roman-to-integer/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
