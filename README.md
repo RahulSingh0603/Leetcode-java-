@@ -35,6 +35,7 @@ solve every day one leetcode problem
 | [1480-running-sum-of-1d-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1929-concatenation-of-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1929-concatenation-of-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3731-find-missing-elements/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Binary Search
@@ -115,6 +116,7 @@ solve every day one leetcode problem
 | [0054-spiral-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0258-add-digits/) | Easy |
 | [0867-transpose-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0867-transpose-matrix/) | Easy |
+| [1929-concatenation-of-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
