@@ -238,6 +238,7 @@ solve every day one leetcode problem
 | [0620-not-boring-movies](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0620-not-boring-movies/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1148-article-views-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1148-article-views-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1683-invalid-tweets/) | Easy |
