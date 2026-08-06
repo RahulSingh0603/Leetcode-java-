@@ -106,6 +106,7 @@ solve every day one leetcode problem
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Simulation
@@ -184,6 +185,7 @@ solve every day one leetcode problem
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0342-power-of-four/) | Easy |
