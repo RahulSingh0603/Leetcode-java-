@@ -240,6 +240,7 @@ solve every day one leetcode problem
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0619-biggest-single-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0620-not-boring-movies/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1068-product-sales-analysis-i/) | Easy |
