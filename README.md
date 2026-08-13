@@ -110,6 +110,7 @@ solve every day one leetcode problem
 | [0021-merge-two-sorted-lists](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0086-partition-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0075-sort-colors/) | Medium |
+| [0086-partition-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0086-partition-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0283-move-zeroes/) | Easy |
