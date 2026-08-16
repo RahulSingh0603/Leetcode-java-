@@ -112,6 +112,7 @@ solve every day one leetcode problem
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0086-partition-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
