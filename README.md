@@ -108,6 +108,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0086-partition-list/) | Medium |
@@ -194,6 +195,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0231-power-of-two](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0342-power-of-four/) | Easy |
