@@ -186,6 +186,7 @@ solve every day one leetcode problem
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -227,6 +228,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0013-roman-to-integer/) | Easy |
+| [0022-generate-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0022-generate-parentheses/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
@@ -266,9 +268,14 @@ solve every day one leetcode problem
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0078-subsets/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
