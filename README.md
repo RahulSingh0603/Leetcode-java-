@@ -9,6 +9,7 @@ solve every day one leetcode problem
 | [0001-two-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0054-spiral-matrix/) | Medium |
@@ -57,6 +58,7 @@ solve every day one leetcode problem
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -218,6 +220,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0013-roman-to-integer/) | Easy |
+| [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0041-first-missing-positive/) | Hard |
 | [0202-happy-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
@@ -269,6 +272,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
 | [0078-subsets](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0078-subsets/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -278,4 +282,12 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0022-generate-parentheses/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
