@@ -10,6 +10,7 @@ solve every day one leetcode problem
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0054-spiral-matrix/) | Medium |
@@ -273,6 +274,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0078-subsets/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
