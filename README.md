@@ -8,6 +8,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0039-combination-sum/) | Medium |
@@ -146,6 +147,7 @@ solve every day one leetcode problem
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0086-partition-list/) | Medium |
