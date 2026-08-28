@@ -300,12 +300,19 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
