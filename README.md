@@ -40,6 +40,7 @@ solve every day one leetcode problem
 | [1572-matrix-diagonal-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1929-concatenation-of-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3731-find-missing-elements/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -131,6 +132,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
