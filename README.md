@@ -189,6 +189,7 @@ solve every day one leetcode problem
 | [2235-add-two-integers](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2235-add-two-integers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Dynamic Programming
