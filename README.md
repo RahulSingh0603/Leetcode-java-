@@ -24,6 +24,7 @@ solve every day one leetcode problem
 | [0136-single-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0217-contains-duplicate](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0283-move-zeroes/) | Easy |
@@ -82,6 +83,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0075-sort-colors/) | Medium |
+| [0217-contains-duplicate](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -230,6 +232,7 @@ solve every day one leetcode problem
 | [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0041-first-missing-positive/) | Hard |
 | [0202-happy-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
