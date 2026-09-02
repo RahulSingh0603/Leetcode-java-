@@ -321,4 +321,12 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
