@@ -46,6 +46,7 @@ solve every day one leetcode problem
 | [2574-left-and-right-sum-differences](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3731-find-missing-elements/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ solve every day one leetcode problem
 | [0191-number-of-1-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +117,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -137,6 +141,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +248,7 @@ solve every day one leetcode problem
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3731-find-missing-elements/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,4 +346,8 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0042-trapping-rain-water/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
