@@ -8,6 +8,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
@@ -151,6 +152,7 @@ solve every day one leetcode problem
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0075-sort-colors/) | Medium |
@@ -162,6 +164,7 @@ solve every day one leetcode problem
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0011-container-with-most-water/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Math
