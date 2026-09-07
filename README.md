@@ -33,6 +33,7 @@ solve every day one leetcode problem
 | [0283-move-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0645-set-mismatch](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0645-set-mismatch/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -90,6 +91,7 @@ solve every day one leetcode problem
 | [0075-sort-colors](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
+| [0645-set-mismatch](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -155,6 +157,7 @@ solve every day one leetcode problem
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0342-power-of-four/) | Easy |
+| [0645-set-mismatch](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -248,6 +251,7 @@ solve every day one leetcode problem
 | [0217-contains-duplicate](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0645-set-mismatch](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0645-set-mismatch/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
