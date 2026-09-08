@@ -19,6 +19,7 @@ solve every day one leetcode problem
 | [0053-maximum-subarray](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0078-subsets/) | Medium |
@@ -70,6 +71,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0867-transpose-matrix/) | Easy |
@@ -248,6 +250,7 @@ solve every day one leetcode problem
 | [0013-roman-to-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0041-first-missing-positive/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
