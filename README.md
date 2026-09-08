@@ -35,6 +35,7 @@ solve every day one leetcode problem
 | [0287-find-the-duplicate-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0645-set-mismatch/) | Easy |
+| [0682-baseball-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0682-baseball-game/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -139,6 +140,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0258-add-digits/) | Easy |
+| [0682-baseball-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0867-transpose-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
@@ -348,6 +350,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0155-min-stack/) | Medium |
+| [0682-baseball-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0682-baseball-game/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
