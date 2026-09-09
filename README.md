@@ -212,6 +212,7 @@ solve every day one leetcode problem
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3870-count-commas-in-range](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
