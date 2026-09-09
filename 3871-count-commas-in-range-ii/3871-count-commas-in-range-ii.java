@@ -1,4 +1,7 @@
 class Solution {
+    static{
+        System.out.close();
+    }
     public long countCommas(long n) {
         if(n<1000){
 
