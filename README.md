@@ -213,6 +213,7 @@ solve every day one leetcode problem
 | [1025-divisor-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2235-add-two-integers/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -374,4 +375,8 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 <!---LeetCode Topics End-->
