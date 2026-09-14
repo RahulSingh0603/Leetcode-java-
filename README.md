@@ -10,6 +10,7 @@ solve every day one leetcode problem
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0039-combination-sum/) | Medium |
@@ -59,6 +60,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
