@@ -46,6 +46,7 @@ solve every day one leetcode problem
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -240,6 +241,7 @@ solve every day one leetcode problem
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1025-divisor-game/) | Easy |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
