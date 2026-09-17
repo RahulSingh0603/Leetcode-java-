@@ -54,6 +54,7 @@ solve every day one leetcode problem
 | [1572-matrix-diagonal-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1929-concatenation-of-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3731-find-missing-elements/) | Easy |
@@ -160,6 +161,7 @@ solve every day one leetcode problem
 | [0209-minimum-size-subarray-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0724-find-pivot-index](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bit Manipulation
