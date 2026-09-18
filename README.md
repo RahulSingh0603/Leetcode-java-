@@ -38,6 +38,7 @@ solve every day one leetcode problem
 | [0283-move-zeroes](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0724-find-pivot-index/) | Easy |
@@ -159,6 +160,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -278,6 +280,7 @@ solve every day one leetcode problem
 | [0217-contains-duplicate](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0645-set-mismatch/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3731-find-missing-elements/) | Easy |
