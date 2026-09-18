@@ -316,6 +316,7 @@ solve every day one leetcode problem
 | [1068-product-sales-analysis-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1148-article-views-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1148-article-views-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1683-invalid-tweets/) | Easy |
