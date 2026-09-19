@@ -225,6 +225,7 @@ solve every day one leetcode problem
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2235-add-two-integers](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2235-add-two-integers/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -396,5 +397,6 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 <!---LeetCode Topics End-->
