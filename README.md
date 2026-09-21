@@ -47,6 +47,7 @@ solve every day one leetcode problem
 | [0875-koko-eating-bananas](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -99,6 +100,7 @@ solve every day one leetcode problem
 | [0191-number-of-1-bits](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0912-sort-an-array/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -247,6 +249,7 @@ solve every day one leetcode problem
 | [0198-house-robber](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0877-stone-game/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1025-divisor-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1025-divisor-game/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 ## Recursion
@@ -399,4 +402,12 @@ solve every day one leetcode problem
 | [0836-rectangle-overlap](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
