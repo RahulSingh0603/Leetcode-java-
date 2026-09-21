@@ -55,6 +55,7 @@ solve every day one leetcode problem
 | [1480-running-sum-of-1d-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1929-concatenation-of-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -252,6 +253,7 @@ solve every day one leetcode problem
 | [0918-maximum-sum-circular-subarray](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1025-divisor-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1025-divisor-game/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
