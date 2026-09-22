@@ -308,6 +308,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0175-combine-two-tables/) | Easy |
+| [0181-employees-earning-more-than-their-managers](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0182-duplicate-emails/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0196-delete-duplicate-emails/) | Easy |
