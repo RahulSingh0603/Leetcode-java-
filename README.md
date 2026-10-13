@@ -61,6 +61,7 @@ solve every day one leetcode problem
 | [1991-find-the-middle-index-in-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -116,6 +117,7 @@ solve every day one leetcode problem
 | [0977-squares-of-a-sorted-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3731-find-missing-elements/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Heap (Priority Queue)
@@ -207,6 +209,7 @@ solve every day one leetcode problem
 | [0011-container-with-most-water](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0011-container-with-most-water/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
