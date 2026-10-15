@@ -60,6 +60,7 @@ solve every day one leetcode problem
 | [1929-concatenation-of-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3731-find-missing-elements/) | Easy |
@@ -299,6 +300,7 @@ solve every day one leetcode problem
 | [0560-subarray-sum-equals-k](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0645-set-mismatch/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -410,6 +412,7 @@ solve every day one leetcode problem
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -430,4 +433,8 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
