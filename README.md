@@ -311,6 +311,7 @@ solve every day one leetcode problem
 | [0022-generate-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0022-generate-parentheses/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0389-find-the-difference/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -402,6 +403,7 @@ solve every day one leetcode problem
 | [0042-trapping-rain-water](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0155-min-stack/) | Medium |
 | [0682-baseball-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0682-baseball-game/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Design
