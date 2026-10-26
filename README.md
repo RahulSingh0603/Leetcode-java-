@@ -9,6 +9,7 @@ solve every day one leetcode problem
 | [0001-two-sum](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0035-search-insert-position/) | Easy |
@@ -308,6 +309,7 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0022-generate-parentheses/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0389-find-the-difference/) | Easy |
@@ -442,4 +444,8 @@ solve every day one leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
