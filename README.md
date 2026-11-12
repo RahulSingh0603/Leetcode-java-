@@ -310,6 +310,7 @@ solve every day one leetcode problem
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0022-generate-parentheses/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0389-find-the-difference/) | Easy |
@@ -369,6 +370,7 @@ solve every day one leetcode problem
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0022-generate-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -402,6 +404,7 @@ solve every day one leetcode problem
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0155-min-stack/) | Medium |
 | [0682-baseball-game](https://github.com/rahul8287988137-boop/Leetcode-java-/tree/main/0682-baseball-game/) | Easy |
